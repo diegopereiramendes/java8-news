@@ -1,0 +1,8 @@
+*Patterns estruturais geralmente tratam de relacionamentos entre entidades, 
+    fazendo com que essas entidades juntas funcionem de uma forma melhor.
+
+*Patterns criacionais fornecem mecanismos de instanciação, 
+    tornando mais fácil a criação de objetos de forma que eles se adequem a cada situação.
+
+*Patterns comportamentais são utilizados na comunicação entre entidades e
+    fazem com que essas entidades se comuniquem mais facilmente e flexivelmente.
