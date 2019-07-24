@@ -36,7 +36,7 @@ public class Employee {
                 new Employee("Nancy Smith", 15),
                 new Employee("Deborah Sprightly", 29),
                 new Employee("Antonio", 29),
-                new Employee("Aatonio", 29),
+                new Employee("Antonio", 29),
                 new Employee("Diego Negativo", -10));
 
     }

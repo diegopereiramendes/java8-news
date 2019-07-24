@@ -21,6 +21,7 @@ public class Examples {
         convertStreamToCollections();
         convertStreamToArray();
         convertStreamToMap();
+        streamGrouping();
         streamFilter();
         streamMap();
         streamSorted();
@@ -73,6 +74,14 @@ public class Examples {
         Map<String, Employee> employeesMap = employees.stream()
                 .collect(Collectors.toMap(Employee::getName,
                         Function.identity()));
+
+        System.out.println(employeesMap);
+    }
+
+    private static void streamGrouping() {
+        List<Employee> employees = Employee.mockEmployees();
+        Map<String, List<Employee>> employeesMap = employees.stream()
+                .collect(Collectors.groupingBy(Employee::getName));
 
         System.out.println(employeesMap);
     }
