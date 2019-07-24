@@ -1,4 +1,4 @@
-package interfaces.functional;
+package java8news.interfaces.functional;
 
 import java.util.function.BinaryOperator;
 

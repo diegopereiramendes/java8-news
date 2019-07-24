@@ -1,6 +1,6 @@
-package interfaces.functional;
+package java8news.interfaces.functional;
 
-import interfaces.model.Employee;
+import java8news.interfaces.model.Employee;
 
 import java.util.List;
 import java.util.function.Consumer;

@@ -1,4 +1,4 @@
-package interfaces.functional;
+package java8news.interfaces.functional;
 
 import java.util.Date;
 import java.util.function.Supplier;

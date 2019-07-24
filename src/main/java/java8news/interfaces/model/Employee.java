@@ -1,4 +1,4 @@
-package interfaces.model;
+package java8news.interfaces.model;
 
 import java.util.Arrays;
 import java.util.List;
@@ -35,6 +35,8 @@ public class Employee {
                 new Employee("Ethan Hardy", 65),
                 new Employee("Nancy Smith", 15),
                 new Employee("Deborah Sprightly", 29),
+                new Employee("Antonio", 29),
+                new Employee("Aatonio", 29),
                 new Employee("Diego Negativo", -10));
 
     }
