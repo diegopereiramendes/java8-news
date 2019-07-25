@@ -1,0 +1,3 @@
+Para reduzir o detalhamento de código desnecessário, introduziu-se Type Inference em Java,
+que é o processo de deduzir automaticamente os tipos de dados não especificados de uma expressão com base nas
+informações contextuais.
