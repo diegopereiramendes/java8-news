@@ -1,4 +1,4 @@
-package java8news.streams;
+package java8news.stream;
 
 import java8news.interfaces.model.Employee;
 
