@@ -1,0 +1,2 @@
+A ideia por trás dos métodos de interface estática é fornecer um mecanismo simples que nos permita aumentar o grau de
+coesão de um projeto, reunindo métodos relacionados em um único local sem precisar criar um objeto.

@@ -1,0 +1,7 @@
+A razão pela qual os métodos padrão foram incluídos na versão do Java 8 é bastante óbvia.
+
+Em um design típico baseado em abstrações, em que uma interface possui uma ou várias implementações,
+se um ou mais métodos forem adicionados à interface, todas as implementações serão forçadas a implementá-las também.
+Caso contrário, o design só vai quebrar.
+
+Imagina uma Interface Veículo, existe coisas que podem ser comuns a todos, como por exemplo, tocar alarme
